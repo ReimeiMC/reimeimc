@@ -74,11 +74,16 @@
 </tr>
 </table>
 
-## 🏆 **GitHub Trophies (Commits)**
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ReimeiMC&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ReimeiMC&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReimeiMC&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ReimeiMC&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ReimeiMC&theme=gruvbox&utcOffset=9)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ReimeiMC&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
-</div>
+## 🏆 **GitHub Trophies (Commits)**
+![trophy](https://github-profile-trophy.vercel.app/?username=ReimeiMC&theme=gruvbox)
+
 
 ## 💭 **Random Dev Quote**
 
